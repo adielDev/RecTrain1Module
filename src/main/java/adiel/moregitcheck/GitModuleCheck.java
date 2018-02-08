@@ -25,5 +25,8 @@ public class GitModuleCheck extends AppCompatActivity {
         //check 14
         //check 16
         //check 17
+        //check 15
+        //check 18
+        //check 20
     }
 }
