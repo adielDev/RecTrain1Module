@@ -10,5 +10,6 @@ public class GitModuleCheck extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_git_module_check);
         //check 1
+        //check 2
     }
 }
